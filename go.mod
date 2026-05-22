@@ -62,7 +62,7 @@ require (
 	github.com/minio/pkg/v3 v3.8.1
 	github.com/minio/selfupdate v0.6.0
 	github.com/minio/simdjson-go v0.4.5
-	github.com/minio/sio v0.5.1
+	github.com/minio/sio v0.4.1
 	github.com/minio/xxml v0.0.3
 	github.com/minio/zipindex v0.5.0
 	github.com/mitchellh/go-homedir v1.1.0
@@ -243,10 +243,7 @@ require (
 	github.com/nats-io/nkeys v0.4.15 // indirect
 	github.com/nats-io/nuid v1.0.1 // indirect
 	github.com/oklog/ulid/v2 v2.1.1 // indirect
-	github.com/olekukonko/cat v0.0.0-20250911104152-50322a0618f6 // indirect
-	github.com/olekukonko/errors v1.3.0 // indirect
-	github.com/olekukonko/ll v0.1.8 // indirect
-	github.com/olekukonko/tablewriter v1.1.4 // indirect
+	github.com/olekukonko/tablewriter v0.0.5 // indirect
 	github.com/pkg/browser v0.0.0-20240102092130-5ac0b6a4141c // indirect
 	github.com/planetscale/vtprotobuf v0.6.1-0.20240319094008-0393e58bdf10 // indirect
 	github.com/posener/complete v1.2.3 // indirect
